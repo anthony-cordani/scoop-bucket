@@ -6,14 +6,14 @@
             "bin": [
                 "kitt.exe"
             ],
-            "hash": "58a0ad90ea38846a27f90e88d55c38b7528d13a1ebe76f013643e708ffeac643"
+            "hash": "a052f5930796a0985fc515fb8079c3764ce89dcd78c98f42e1b66d258ae17aee"
         },
         "arm64": {
             "url": "https://github.com/anthony-cordani/kitt/releases/download/v0.1.0/kitt_0.1.0_windows_arm64.zip",
             "bin": [
                 "kitt.exe"
             ],
-            "hash": "729dca2f6cb772d64b1b6b884685ed35d2fe4eda7186c8a313730391ccbae5f9"
+            "hash": "294cecab51bb0ea74055799af56ab10e31e7c449809f2dbdf5000dcacbce6cc2"
         }
     },
     "homepage": "https://github.com/anthony-cordani/kitt",
