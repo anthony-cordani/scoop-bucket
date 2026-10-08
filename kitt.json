@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/anthony-cordani/kitt/releases/download/v0.1.0/kitt_0.1.0_windows_amd64.zip",
+            "bin": [
+                "kitt.exe"
+            ],
+            "hash": "58a0ad90ea38846a27f90e88d55c38b7528d13a1ebe76f013643e708ffeac643"
+        },
+        "arm64": {
+            "url": "https://github.com/anthony-cordani/kitt/releases/download/v0.1.0/kitt_0.1.0_windows_arm64.zip",
+            "bin": [
+                "kitt.exe"
+            ],
+            "hash": "729dca2f6cb772d64b1b6b884685ed35d2fe4eda7186c8a313730391ccbae5f9"
+        }
+    },
+    "homepage": "https://github.com/anthony-cordani/kitt",
+    "license": "MIT",
+    "description": "Install, pin and publish AI agent skills per project, straight from git."
+}
