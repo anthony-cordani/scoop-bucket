@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/anthony-cordani/kitt/releases/download/v0.1.0/kitt_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/anthony-cordani/kitt/releases/download/v0.1.1/kitt_0.1.1_windows_amd64.zip",
             "bin": [
                 "kitt.exe"
             ],
-            "hash": "a052f5930796a0985fc515fb8079c3764ce89dcd78c98f42e1b66d258ae17aee"
+            "hash": "643621d257250e3a50f7e45d33b50ee6d3d74b76fe253e31d02448abba8a92b5"
         },
         "arm64": {
-            "url": "https://github.com/anthony-cordani/kitt/releases/download/v0.1.0/kitt_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/anthony-cordani/kitt/releases/download/v0.1.1/kitt_0.1.1_windows_arm64.zip",
             "bin": [
                 "kitt.exe"
             ],
-            "hash": "294cecab51bb0ea74055799af56ab10e31e7c449809f2dbdf5000dcacbce6cc2"
+            "hash": "028b77a836e40983ef2f1f85dcf3588c6fa11eca4ece6e92c33b9a7ff8e70486"
         }
     },
     "homepage": "https://github.com/anthony-cordani/kitt",
